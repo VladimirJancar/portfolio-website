@@ -1,3 +1,5 @@
+Built using tailwindcss v3.4.1
+
 After cloning run
 ```
 npm install
