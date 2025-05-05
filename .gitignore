@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# output files
+style.css
+style.css.map
+
+# system files
+.DS_Store
